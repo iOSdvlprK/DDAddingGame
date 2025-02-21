@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  DDAddingGame
+
+  Created by joe on 2/21/25.
+  
+*/
+
+"Game Over" = "게임 종료";
+"Score" = "점수";
+"Level" = "레벨";
+"Game" = "게임";
+"High Scores" = "최고 점수";
+"Rank" = "랭킹";
+"Name" = "이름";
+"Save" = "저장";

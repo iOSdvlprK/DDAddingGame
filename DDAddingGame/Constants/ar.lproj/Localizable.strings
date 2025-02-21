@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  DDAddingGame
+
+  Created by joe on 2/21/25.
+  
+*/
+
+"Game Over" = "نهاية اللعبة";
+"Score" = "النتيجة";
+"Level" = "مستوى";
+"Game" = "لعبة";
+"High Scores" = "أعلى النتائج";
+"Rank" = "ترتيب";
+"Name" = "اسم";
+"Save" = "حفظ";
